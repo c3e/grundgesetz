@@ -1,0 +1,3372 @@
+{
+    "contributor": "Chaospott/foobar e. V.",
+    "coverage": "Bundesrepublik Deutschland, 1949-2018",
+    "creator": "Chaospott/foobar e. V.",
+    "description": "Nachvollziehen aller Veränderungen am Grundgesetz für die BRD seit seinem Inkrafttreten 1949",
+    "language": "de-DE",
+    "publisher": "DocPatch 0.2",
+    "rights": "Public Domain",
+    "subject": "Bundesverfassung",
+    "title": "Grundgesetz für die Bundesrepublik Deutschland",
+    "type": "Dataset",
+    "revisions": [
+        {
+            "id": 0,
+            "title": "Grundgesetz für die Bundesrepublik Deutschland vom 23. Mai 1949.",
+            "signedOffBy": [
+                {
+                    "name": "Konrad Adenauer",
+                    "role": "Präsident des Parlamentarischen Rates",
+                    "uri": "https://de.wikipedia.org/wiki/Konrad Adenauer"
+                },
+                {
+                    "name": "Adolph Schönfelder",
+                    "role": "1. Vizepräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Adolph Schönfelder"
+                },
+                {
+                    "name": "Hermann Schäfer",
+                    "role": "2. Vizepräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Hermann Schäfer"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1"
+                }
+            ],
+            "announced": "1949-05-23",
+            "effectiveSince": "1949-05-24"
+        },
+        {
+            "id": 1,
+            "title": "Strafrechtsänderungsgesetz",
+            "articles": {
+                "deleted": ["143"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Theodor Heuss",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Theodor Heuss"
+                },
+                {
+                    "name": "Konrad Adenauer",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Konrad Adenauer"
+                },
+                {
+                    "name": "Thomas Dehler",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Thomas Dehler"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "739"
+                }
+            ],
+            "passed": "1951-07-11",
+            "date": "1951-08-30",
+            "announced": "1951-08-31",
+            "effectiveSince": "1951-08-31",
+            "legislativeSession": {
+                "id": "1",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1949"
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 2,
+            "title": "Gesetz zur Einfügung eines Artikels 120 a in das Grundgesetz",
+            "articles": {
+                "created": ["120a"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Theodor Heuss",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Theodor Heuss"
+                },
+                {
+                    "name": "Adenauer",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Konrad Adenauer"
+                },
+                {
+                    "name": "Thomas Dehler",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Thomas Dehler"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "445"
+                }
+            ],
+            "passed": "1952-05-15",
+            "date": "1952-08-14",
+            "announced": "1952-08-18",
+            "effectiveSince": "1952-08-18",
+            "legislativeSession": {
+                "id": "1",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1949"
+            },
+            "votes": {
+                "yes": 303,
+                "no": 18,
+                "abstentions": 21
+            },
+            "initiativeOf": "CDU/CSU, FDP und DP/DPB"
+        },
+        {
+            "id": 3,
+            "title": "Gesetz zur Änderung des Artikels 107 des Grundgesetzes",
+            "articles": {
+                "updated": ["107"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Theodor Heuss",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Theodor Heuss"
+                },
+                {
+                    "name": "Franz Blücher",
+                    "role": "Stellvertreter des Bundeskanzlers",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Blücher"
+                },
+                {
+                    "name": "Beate Schäffer",
+                    "role": "Bundesministerin der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Beate Schäffer"
+                },
+                {
+                    "name": "Robert Lehr",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Robert Lehr"
+                },
+                {
+                    "name": "Thomas Dehler",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Thomas Dehler"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "130"
+                }
+            ],
+            "passed": "1952-12-11",
+            "date": "1953-04-20",
+            "announced": "1953-04-22",
+            "effectiveSince": "1953-04-23",
+            "legislativeSession": {
+                "id": "1",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1949"
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 4,
+            "title": "Gesetz zur Ergänzung des Grundgesetzes",
+            "articles": {
+                "created": ["142a"],
+                "updated": ["73", "79"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Theodor Heuss",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Theodor Heuss"
+                },
+                {
+                    "name": "Franz Blücher",
+                    "role": "Stellvertreter des Bundeskanzlers",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Blücher"
+                },
+                {
+                    "name": "Fritz Neumayer",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Fritz Neumayer"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "45"
+                }
+            ],
+            "passed": "1954-02-26",
+            "date": "1954-03-26",
+            "announced": "1954-03-27",
+            "effectiveSince": "1954-03-28",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
+            "votes": {
+                "yes": 334,
+                "no": 144,
+                "abstentions": 0
+            },
+            "initiativeOf": "zwei Entwürfe, CDU/CSU, GB/BHE und DP sowie der FDP"
+        },
+        {
+            "id": 5,
+            "title": "Zweites Gesetz zur Änderung des Artikels 107 des Grundgesetzes",
+            "articles": {
+                "updated": ["107"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Theodor Heuss",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Theodor Heuss"
+                },
+                {
+                    "name": "Konrad Adenauer",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Konrad Adenauer"
+                },
+                {
+                    "name": "Franz Blücher",
+                    "role": "Bundesminister für wirtschaftliche Zusammenarbeit (für den Bundesminister der Finanzen)",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Blücher"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                },
+                {
+                    "name": "Fritz Neumayer",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Fritz Neumayer"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "517"
+                }
+            ],
+            "passed": "1954-12-15",
+            "date": "1954-12-25",
+            "announced": "1954-12-30",
+            "effectiveSince": "1954-12-31",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
+            "votes": {
+                "yes": 421,
+                "no": 0,
+                "abstentions": 0
+            },
+            "initiativeOf": "CDU/CSU, FDP, GB/BHE und DP"
+        },
+        {
+            "id": 6,
+            "title": "Gesetz zur Änderung und Ergänzung der Finanzverfassung (Finanzverfassungsgesetz)",
+            "articles": {
+                "updated": ["106", "107"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Theodor Heuss",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Theodor Heuss"
+                },
+                {
+                    "name": "Konrad Adenauer",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Konrad Adenauer"
+                },
+                {
+                    "name": "Fritz Schäffer",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Fritz Schäffer"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "817"
+                }
+            ],
+            "passed": "1954-11-19",
+            "date": "1955-12-23",
+            "announced": "1955-12-28",
+            "effectiveSince": "1956-04-01",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 7,
+            "title": "Gesetz zur Ergänzung des Grundgesetzes",
+            "articles": {
+                "created": ["17a", "45a", "45b", "59a", "65a", "87a", "87b", "96a", "143"],
+                "updated": ["1", "12", "36", "49", "60", "96", "137"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Theodor Heuss",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Theodor Heuss"
+                },
+                {
+                    "name": "Konrad Adenauer",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Konrad Adenauer"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister des Innern (für den Bundesminister der Justiz)",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                },
+                {
+                    "name": "Theodor Blank",
+                    "role": "Bundesminister für Verteidigung",
+                    "uri": "https://de.wikipedia.org/wiki/Theodor Blank"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "111"
+                }
+            ],
+            "passed": "1956-03-06",
+            "date": "1956-03-19",
+            "announced": "1956-03-21",
+            "effectiveSince": "1956-03-22",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
+            "votes": {
+                "yes": 390,
+                "no": 20,
+                "abstentions": 0
+            },
+            "initiativeOf": "drei Entwürfe, davon einer von CDU/CSU, GB/BHE und DP sowie zwei von der FDP"
+        },
+        {
+            "id": 8,
+            "title": "Gesetz zur Änderung und Ergänzung des Artikels 106 des Grundgesetzes",
+            "articles": {
+                "updated": ["106"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Theodor Heuss",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Theodor Heuss"
+                },
+                {
+                    "name": "Franz Blücher",
+                    "role": "Vertreter des Bundeskanzlers",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Blücher"
+                },
+                {
+                    "name": "Fritz Schäffer",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Fritz Schäffer"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                },
+                {
+                    "name": "Hans-Joachim von Merkatz",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Joachim von Merkatz"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1077"
+                }
+            ],
+            "passed": "1956-12-13",
+            "date": "1956-12-24",
+            "announced": "1956-12-29",
+            "effectiveSince": "1958-04-01",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
+            "votes": {
+                "yes": 376,
+                "no": 1,
+                "abstentions": 3
+            },
+            "initiativeOf": "interfraktionell von CDU/CSU, SPD, FDP, GB/BHE und DP"
+        },
+        {
+            "id": 9,
+            "title": "Gesetz zur Einfügung eines Artikels 135 a in das Grundgesetz",
+            "articles": {
+                "created": ["135a"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Theodor Heuss",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Theodor Heuss"
+                },
+                {
+                    "name": "Konrad Adenauer",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Konrad Adenauer"
+                },
+                {
+                    "name": "Fritz Schäffer",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Fritz Schäffer"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                },
+                {
+                    "name": "Hans-Joachim von Merkatz",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Joachim von Merkatz"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1745"
+                }
+            ],
+            "passed": "1957-08-29",
+            "date": "1957-10-22",
+            "announced": "1957-10-26",
+            "effectiveSince": "1957-10-27",
+            "legislativeSession": {
+                "id": "2",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1953"
+            },
+            "votes": {
+                "yes": 407,
+                "no": 54,
+                "abstentions": 14
+            },
+            "initiativeOf": "CDU/CSU und SPD"
+        },
+        {
+            "id": 10,
+            "title": "Gesetz zur Ergänzung des Grundgesetzes",
+            "articles": {
+                "created": ["87c"],
+                "updated": ["74"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Konrad Adenauer",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Konrad Adenauer"
+                },
+                {
+                    "name": "Siegfried Balke",
+                    "role": "Bundesminister für Atomkernenergie und Wasserwirtschaft",
+                    "uri": "https://de.wikipedia.org/wiki/Siegfried Balke"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister des Innern (für den Bundesminister der Justiz)",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "813"
+                }
+            ],
+            "passed": "1959-12-03",
+            "date": "1959-12-23",
+            "announced": "1959-12-31",
+            "effectiveSince": "1960-01-01",
+            "legislativeSession": {
+                "id": "3",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1957"
+            },
+            "initiativeOf": "SPD"
+        },
+        {
+            "id": 11,
+            "title": "Gesetz zur Einfügung eines Artikels über die Luftverkehrsverwaltung in das Grundgesetz (11. Änderung des Grundgesetzes)",
+            "articles": {
+                "created": ["87d"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Konrad Adenauer",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Konrad Adenauer"
+                },
+                {
+                    "name": "Hans-Christoph Seebohm",
+                    "role": "Bundesminister für Verkehr",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Christoph Seebohm"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                },
+                {
+                    "name": "Fritz Schäffer",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Fritz Schäffer"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "65"
+                }
+            ],
+            "passed": "1960-09-28",
+            "date": "1961-02-06",
+            "announced": "1961-02-15",
+            "effectiveSince": "1961-02-16",
+            "legislativeSession": {
+                "id": "3",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1957"
+            },
+            "votes": {
+                "yes": 368,
+                "no": 0,
+                "abstentions": 1
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 12,
+            "title": "Zwölftes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": ["96a"],
+                "deleted": ["96"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Ludwig Erhard",
+                    "role": "Stellvertreter des Bundeskanzlers",
+                    "uri": "https://de.wikipedia.org/wiki/Ludwig Erhard"
+                },
+                {
+                    "name": "Fritz Schäffer",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Fritz Schäffer"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                },
+                {
+                    "name": "Franz Josef Strauß",
+                    "role": "Bundesminister für Verteidigung",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Josef Strauß"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "141"
+                }
+            ],
+            "passed": "1961-01-25",
+            "date": "1961-03-06",
+            "announced": "1961-03-11",
+            "effectiveSince": "1961-03-12",
+            "legislativeSession": {
+                "id": "3",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1957"
+            },
+            "votes": {
+                "yes": 410,
+                "no": 0,
+                "abstentions": 0
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 13,
+            "title": "Dreizehntes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": ["74"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Ludwig Erhard",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Ludwig Erhard"
+                },
+                {
+                    "name": "Hermann Höcherl",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Hermann Höcherl"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "513"
+                }
+            ],
+            "passed": "1965-04-07",
+            "date": "1965-06-16",
+            "announced": "1965-06-26",
+            "effectiveSince": "1965-06-27",
+            "legislativeSession": {
+                "id": "4",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1961"
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 14,
+            "title": "Vierzehntes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": ["120"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Erich Mende",
+                    "role": "Stellvertreter des Bundeskanzlers",
+                    "uri": "https://de.wikipedia.org/wiki/Erich Mende"
+                },
+                {
+                    "name": "Hans Georg Dahlgrün",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Hans Georg Dahlgrün"
+                },
+                {
+                    "name": "Hermann Höcherl",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Hermann Höcherl"
+                },
+                {
+                    "name": "Karl Weber",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Karl Weber (Justizminister)"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "649"
+                }
+            ],
+            "passed": "1965-05-26",
+            "date": "1965-07-30",
+            "announced": "1965-08-05",
+            "effectiveSince": "1965-08-05",
+            "legislativeSession": {
+                "id": "4",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1961"
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 15,
+            "title": "Fünfzehntes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": ["109"]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Kurt Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Karl Schiller",
+                    "role": "Bundesminister für Wirtschaft",
+                    "uri": "https://de.wikipedia.org/wiki/Karl Schiller"
+                },
+                {
+                    "name": "Franz Josef Strauß",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Josef Strauß"
+                },
+                {
+                    "name": "Paul Lücke",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Paul Lücke"
+                },
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "581"
+                }
+            ],
+            "passed": "1967-05-10",
+            "date": "1967-06-08",
+            "announced": "1967-06-13",
+            "effectiveSince": "1967-06-14",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "votes": {
+                "yes": 336,
+                "no": 0,
+                "abstentions": 0
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 16,
+            "title": "Sechzehntes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "92", "95"
+                ],
+                "deleted": [
+                    "96", "99", "100"
+                ],
+                "moved": [
+                    ["96a", "96"]
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Kurt Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundesminister der Justiz (für den Bundesminister des Innern)",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Franz Josef Strauß",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Josef Strauß"
+                },
+                {
+                    "name": "Hans Katzer",
+                    "role": "Bundesminister für Arbeit und Sozialordnung",
+                    "uri": "https://de.wikipedia.org/wiki/Hans Katzer"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "657"
+                }
+            ],
+            "passed": "1968-05-08",
+            "date": "1968-06-18",
+            "announced": "1968-06-22",
+            "effectiveSince": "1968-06-23",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "votes": {
+                "yes": 362,
+                "no": 0,
+                "abstentions": 0
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 17,
+            "title": "Siebzehntes Gesetz zur Ergänzung des Grundgesetzes",
+            "articles": {
+                "created": [
+                    "12a", "53a", "80a", "115a", "115b", "115c", "115d", "115e", "115f", "115g", "115h", "115i", "115j", "115k", "115l"
+                ],
+                "updated": [
+                    "9", "10", "11", "12", "19", "20", "35", "65a", "73", "87a", "91"
+                ],
+                "deleted": [
+                    "59a", "142a", "143"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Ernst Benda",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Ernst Benda"
+                },
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Hans Katzer",
+                    "role": "Bundesminister für Arbeit und Sozialordnung",
+                    "uri": "https://de.wikipedia.org/wiki/Hans Katzer"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundesminister der Verteidigung",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder (CDU)"
+                },
+                {
+                    "name": "Carlo Schmid",
+                    "role": "Bundesminister für Angelegenheiten des Bundesrates und der Länder",
+                    "uri": "https://de.wikipedia.org/wiki/Carlo Schmid"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "709"
+                }
+            ],
+            "passed": "1968-05-30",
+            "date": "1968-06-24",
+            "announced": "1968-06-27",
+            "effectiveSince": "1968-06-28",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "votes": {
+                "yes": 384,
+                "no": 100,
+                "abstentions": 1
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 18,
+            "title": "Achtzehntes Gesetz zur Änderung des Grundgesetzes (Artikel 76 und 77)",
+            "articles": {
+                "updated": [
+                    "76", "77"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Kurt Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Ernst Benda",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Ernst Benda"
+                },
+                {
+                    "name": "Carlo Schmid",
+                    "role": "Bundesminister für Angelegenheiten des Bundesrates und der Länder",
+                    "uri": "https://de.wikipedia.org/wiki/Carlo Schmid"
+                },
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1177"
+                }
+            ],
+            "passed": "1968-10-23",
+            "date": "1968-11-15",
+            "announced": "1968-11-19",
+            "effectiveSince": "1968-11-20",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "votes": {
+                "yes": 391,
+                "no": 0,
+                "abstentions": 0
+            },
+            "initiativeOf": "Bundesratsvorlage"
+        },
+        {
+            "id": 19,
+            "title": "Neunzehntes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "93", "94"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Kurt Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Ernst Benda",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Ernst Benda"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "97"
+                }
+            ],
+            "passed": "1968-12-11",
+            "date": "1969-05-12",
+            "announced": "1969-05-14",
+            "effectiveSince": "1969-05-15",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "votes": {
+                "yes": 371,
+                "no": 0,
+                "abstentions": 4
+            },
+            "initiativeOf": "SPD und FDP"
+        },
+        {
+            "id": 20,
+            "title": "Zwanzigstes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "109", "110", "112", "113", "114", "115"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Ernst Benda",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Ernst Benda"
+                },
+                {
+                    "name": "Franz Josef Strauß",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Josef Strauß"
+                },
+                {
+                    "name": "Horst Ehmke",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Ehmke"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "357"
+                }
+            ],
+            "passed": "1968-12-11",
+            "date": "1969-05-12",
+            "announced": "1969-05-14",
+            "effectiveSince": "1969-05-15",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "votes": {
+                "yes": 354,
+                "no": 42,
+                "abstentions": 2
+            },
+            "initiativeOf": "sechs Entwürfe, davon 4 Regierungsvorlagen, einer von FDP, eine von CDU/CSU und von SPD (Drs. V/2861,V/3040,V/3515,V/1086,V/2280,V/3483)"
+        },
+        {
+            "id": 21,
+            "title": "Einundzwanzigstes Gesetz zur Änderung des Grundgesetzes (Finanzreformgesetz)",
+            "articles": {
+                "created": [
+                    "91a", "91b", "104a"
+                ],
+                "updated": [
+                    "105", "106", "107", "108", "115c", "115k"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Hurt Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Franz Josef Strauß",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Josef Strauß"
+                },
+                {
+                    "name": "Ernst Benda",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Ernst Benda"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "359"
+                }
+            ],
+            "passed": "1968-12-11",
+            "date": "1969-05-12",
+            "announced": "1969-05-14",
+            "effectiveSince": "1970-01-01",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "initiativeOf": "sechs Entwürfe, davon 4 Regierungsvorlagen, einer von FDP, einer von CDU/CSU und von SPD (Drs. V/2861, V/3040,V/3515,V/1086,V/2280,V/3483)"
+        },
+        {
+            "id": 22,
+            "title": "Zweiundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "74", "75", "96"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Heinrich Lübke",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Heinrich Lübke"
+                },
+                {
+                    "name": "Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Ernst Benda",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Ernst Benda"
+                },
+                {
+                    "name": "Franz Josef Strauß",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Josef Strauß"
+                },
+                {
+                    "name": "Horst Ehmke",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Ehmke"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "363"
+                }
+            ],
+            "passed": "1968-12-11",
+            "date": "1969-05-12",
+            "announced": "1969-05-14",
+            "effectiveSince": "1969-05-15",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "initiativeOf": "sechs Entwürfe, davon 4 Regierungsvorlagen, einer von FDP, einer von CDU/CSU und von SPD"
+        },
+        {
+            "id": 23,
+            "title": "Dreiundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "76"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Ernst Benda",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Ernst Benda"
+                },
+                {
+                    "name": "Carlo Schmid",
+                    "role": "Bundesminister für Angelegenheiten des Bundesrates und der Länder",
+                    "uri": "https://de.wikipedia.org/wiki/Carlo Schmid"
+                },
+                {
+                    "name": "Horst Ehmke",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Ehmke"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "817"
+                }
+            ],
+            "passed": "1969-06-11",
+            "date": "1969-07-17",
+            "announced": "1969-07-22",
+            "effectiveSince": "1969-07-23",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "votes": {
+                "yes": 409,
+                "no": 0,
+                "abstentions": 1
+            },
+            "initiativeOf": "interfraktionell eingebracht von CDU/CSU, SPD und FDP"
+        },
+        {
+            "id": 24,
+            "title": "Vierundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "120"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Ernst Benda",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Ernst Benda"
+                },
+                {
+                    "name": "Franz Josef Strauß",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Josef Strauß"
+                },
+                {
+                    "name": "Horst Ehmke",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Ehmke"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "985"
+                }
+            ],
+            "passed": "1969-05-14",
+            "date": "1969-07-28",
+            "announced": "1969-07-31",
+            "effectiveSince": "1969-08-01",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "votes": {
+                "yes": 346,
+                "no": 0,
+                "abstentions": 0
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 25,
+            "title": "Fünfundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "29"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Ernst Benda",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Ernst Benda"
+                },
+                {
+                    "name": "Franz Josef Strauß",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Franz Josef Strauß"
+                },
+                {
+                    "name": "Horst Ehmke",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Ehmke"
+                },
+                {
+                    "name": "Carlo Schmid",
+                    "role": "Bundesminister für Angelegenheiten des Bundesrates und der Länder",
+                    "uri": "https://de.wikipedia.org/wiki/Carlo Schmid"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1241"
+                }
+            ],
+            "passed": "1969-07-02",
+            "date": "1969-08-19",
+            "announced": "1969-08-22",
+            "effectiveSince": "1969-08-23",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "votes": {
+                "yes": 371,
+                "no": 6,
+                "abstentions": 21
+            },
+            "initiativeOf": "SPD"
+        },
+        {
+            "id": 26,
+            "title": "Sechsundzwanzigstes Gesetz zur Änderung des Grundgesetzes (Artikel 96)",
+            "articles": {
+                "updated": [
+                    "96"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Georg Kiesinger",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Kurt Georg Kiesinger"
+                },
+                {
+                    "name": "Ernst Benda",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Ernst Benda"
+                },
+                {
+                    "name": "Horst Ehmke",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Ehmke"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1357"
+                }
+            ],
+            "passed": "1969-06-11",
+            "date": "1969-08-26",
+            "announced": "1969-08-29",
+            "effectiveSince": "1969-08-30",
+            "legislativeSession": {
+                "id": "5",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1965"
+            },
+            "votes": {
+                "yes": 402,
+                "no": 0,
+                "abstentions": 6
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 27,
+            "title": "Siebenundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "38", "91a"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Willy Brand",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Willy Brand"
+                },
+                {
+                    "name": "Hans-Dietrich Genscher",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1161"
+                }
+            ],
+            "passed": "1970-06-18",
+            "date": "1970-07-31",
+            "announced": "1970-08-05",
+            "effectiveSince": "1970-08-06",
+            "legislativeSession": {
+                "id": "6",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1969"
+            },
+            "votes": {
+                "yes": 441,
+                "no": 0,
+                "abstentions": 10
+            },
+            "initiativeOf": "Drei Entwürfe, davon eine Regierungsvorlage, zwei von CDU/CSU-Fraktion und Abgeordneten der CDU/CSU"
+        },
+        {
+            "id": 28,
+            "title": "Achtundzwanzigstes Gesetz zur Änderung des Grundgesetzes (Artikel 74 a GG)",
+            "articles": {
+                "created": [
+                    "74a"
+                ],
+                "updated": [
+                    "75", "98"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Willy Brand",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Willy Brand"
+                },
+                {
+                    "name": "Hans-Dietrich Genscher",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
+                },
+                {
+                    "name": "Gerhard Jahn",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Jahn"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "206"
+                }
+            ],
+            "passed": "1971-03-03",
+            "date": "1971-03-18",
+            "announced": "1971-03-20",
+            "effectiveSince": "1971-03-21",
+            "legislativeSession": {
+                "id": "6",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1969"
+            },
+            "votes": {
+                "yes": 404,
+                "no": 16,
+                "abstentions": 11
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 29,
+            "title": "Neunundzwanzigstes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "74"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Josef Ertl",
+                    "role": "Bundesminister für Ernährung",
+                    "uri": "https://de.wikipedia.org/wiki/Josef Ertl"
+                },
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Willy Brand",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Willy Brand"
+                },
+                {
+                    "name": "Hans-Dietrich Genscher",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
+                },
+                {
+                    "name": "Gerhard Jahn",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Jahn"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "207"
+                }
+            ],
+            "passed": "1971-03-03",
+            "date": "1971-03-18",
+            "announced": "1971-03-20",
+            "effectiveSince": "1971-03-21",
+            "legislativeSession": {
+                "id": "6",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1969"
+            },
+            "votes": {
+                "yes": 428,
+                "no": 7,
+                "abstentions": 7
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 30,
+            "title": "Dreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 74 GG - Umweltschutz)",
+            "articles": {
+                "updated": [
+                    "74"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Josef Ertl",
+                    "role": "Bundesminister für Ernährung",
+                    "uri": "https://de.wikipedia.org/wiki/Josef Ertl"
+                },
+                {
+                    "name": "Gustav Heinemann",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Gustav Heinemann"
+                },
+                {
+                    "name": "Willy Brand",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Willy Brand"
+                },
+                {
+                    "name": "Hans-Dietrich Genscher",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
+                },
+                {
+                    "name": "Gerhard Jahn",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Jahn"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "593"
+                }
+            ],
+            "passed": "1972-03-02",
+            "date": "1972-04-12",
+            "announced": "1972-04-14",
+            "effectiveSince": "1972-04-15",
+            "legislativeSession": {
+                "id": "6",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1969"
+            },
+            "votes": {
+                "yes": 432,
+                "no": 0,
+                "abstentions": 1
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 31,
+            "title": "Einunddreißigstes Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "35", "73", "74", "87"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Georg Leber",
+                    "role": "Bundesminister der Verteidigung",
+                    "uri": "https://de.wikipedia.org/wiki/Georg Leber"
+                },
+                {
+                    "name": "Heinz Kühn",
+                    "role": "Für den Bundespräsidenten - der Präsident des Bundesrates",
+                    "uri": "https://de.wikipedia.org/wiki/Heinz Kühn"
+                },
+                {
+                    "name": "Willy Brand",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Willy Brand"
+                },
+                {
+                    "name": "Hans-Dietrich Genscher",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
+                },
+                {
+                    "name": "Gerhard Jahn",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Jahn"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1305"
+                }
+            ],
+            "passed": "1972-06-22",
+            "date": "1972-07-28",
+            "announced": "1972-08-02",
+            "effectiveSince": "1972-08-03",
+            "legislativeSession": {
+                "id": "6",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1969"
+            },
+            "votes": {
+                "yes": 432,
+                "no": 1,
+                "abstentions": 5
+            },
+            "initiativeOf": "Zwei Entwürfe, davon eine Regierungsvorlage und eine Bundesratsvorlage"
+        },
+        {
+            "id": 32,
+            "title": "Zweiunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 45 c)",
+            "articles": {
+                "created": [
+                    "54c"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Walter Scheel",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Walter Scheel"
+                },
+                {
+                    "name": "Helmut Schmidt",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Schmidt"
+                },
+                {
+                    "name": "Werner Maihofer",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Werner Maihofer"
+                },
+                {
+                    "name": "Hans-Jochen Vogel",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Jochen Vogel"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1901"
+                }
+            ],
+            "passed": "1975-02-27",
+            "date": "1975-07-15",
+            "announced": "1975-07-18",
+            "effectiveSince": "1975-07-19",
+            "legislativeSession": {
+                "id": "7",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1972"
+            },
+            "votes": {
+                "yes": 381,
+                "no": 0,
+                "abstentions": 5
+            },
+            "initiativeOf": "eingebracht interfraktionell"
+        },
+        {
+            "id": 33,
+            "title": "Dreiunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 29 und 39)",
+            "articles": {
+                "updated": [
+                    "29", "39", "45a"
+                ],
+                "deleted": [
+                    "45", "49"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Albert Osswald",
+                    "role": "Präsident des Bundesrates (für den Bundespräsidenten)",
+                    "uri": "https://de.wikipedia.org/wiki/Albert Osswald"
+                },
+                {
+                    "name": "Hans-Dietrich Genscher",
+                    "role": "Stellvertreter des Bundeskanzlers",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
+                },
+                {
+                    "name": "Werner Maihofer",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Werner Maihofer"
+                },
+                {
+                    "name": "Hans-Jochen Vogel",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Jochen Vogel"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "2381"
+                }
+            ],
+            "passed": "1976-07-01",
+            "date": "1976-08-23",
+            "announced": "1976-08-27",
+            "effectiveSince": "1976-12-14 (Art. 39, Abs. 1 und 2; Art. 45; Art. 45a, Abs. 1, Satz 2; Art. 49)",
+            "legislativeSession": {
+                "id": "7",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1972"
+            },
+            "votes": {
+                "yes": 336,
+                "no": 13,
+                "abstentions": 1
+            },
+            "initiativeOf": "zusammengeführt aus Regierungsvorlage und Bundestags-Initiative von CDU/CSU"
+        },
+        {
+            "id": 34,
+            "title": "Vierunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 74 Nr. 4 a)",
+            "articles": {
+                "updated": [
+                    "74"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Albert Osswald",
+                    "role": "Präsident des Bundesrates (für den Bundespräsidenten)",
+                    "uri": "https://de.wikipedia.org/wiki/Albert Osswald"
+                },
+                {
+                    "name": "Hans-Dietrich Genscher",
+                    "role": "Stellvertreter des Bundeskanzlers",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Dietrich Genscher"
+                },
+                {
+                    "name": "Werner Maihofer",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Werner Maihofer"
+                },
+                {
+                    "name": "Hans-Jochen Vogel",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Jochen Vogel"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "2383"
+                }
+            ],
+            "passed": "1976-07-01",
+            "date": "1976-08-23",
+            "announced": "1976-08-27",
+            "effectiveSince": "1976-08-28",
+            "legislativeSession": {
+                "id": "7",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1972"
+            },
+            "votes": {
+                "yes": 374,
+                "no": 5,
+                "abstentions": 0
+            },
+            "initiativeOf": "beim Bundesrat eingebracht von Niedersachsen"
+        },
+        {
+            "id": 35,
+            "title": "Fünfunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 21 Abs. 1)",
+            "articles": {
+                "updated": [
+                    "21"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Karl Carstens",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Karl Carstens"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Friedrich Zimmermann",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Friedrich Zimmermann"
+                },
+                {
+                    "name": "Hans A. Engelhard",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Hans A. Engelhard"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1481"
+                }
+            ],
+            "passed": "1983-12-01",
+            "date": "1983-12-21",
+            "announced": "1983-12-23",
+            "effectiveSince": "1984-01-01",
+            "legislativeSession": {
+                "id": "10",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1983"
+            },
+            "votes": {
+                "yes": 453,
+                "no": 2,
+                "abstentions": 0
+            },
+            "initiativeOf": "CDU/CSU, FDP"
+        },
+        {
+            "id": 36,
+            "title": "Gesetz zu dem Vertrag vom 31. August 1990 zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands -- Einigungsvertragsgesetz -- und der Vereinbarung vom 18. September 1990",
+            "articles": {
+                "created": [
+                    "143"
+                ],
+                "updated": [
+                    "0", "51", "135a", "146"
+                ],
+                "deleted": [
+                    "23"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Richard von Weizsäcker",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Richard von Weizsäcker"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Wolfgang Schäuble",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang_Sch%C3%A4uble"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. II",
+                    "pages": "885"
+                }
+            ],
+            "passed": "1990-09-20",
+            "date": "1990-09-23",
+            "announced": "1990-09-28",
+            "effectiveSince": "1990-09-29",
+            "legislativeSession": {
+                "id": "11",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1987"
+            },
+            "votes": {
+                "yes": 440,
+                "no": 47,
+                "abstentions": 3
+            },
+            "initiativeOf": "Regierungsvorlage, textidentisch eingebracht von CDU/CSU, FDP"
+        },
+        {
+            "id": 37,
+            "title": "Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "87d"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Richard von Weizsäcker",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Richard von Weizsäcker"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Rudolf Seiters",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Rudolf Seiters"
+                },
+                {
+                    "name": "Sabine Leutheusser-Schnarrenberger",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
+                },
+                {
+                    "name": "Günther Krause",
+                    "role": "Bundesminister für Verkehr",
+                    "uri": "https://de.wikipedia.org/wiki/Günther Krause"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1254"
+                }
+            ],
+            "passed": "1992-04-30",
+            "date": "1992-07-14",
+            "announced": "1992-07-21",
+            "effectiveSince": "1992-07-22",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
+            "votes": {
+                "yes": 556,
+                "no": 13,
+                "abstentions": 3
+            },
+            "initiativeOf": "CDU/CSU, FDP"
+        },
+        {
+            "id": 38,
+            "title": "Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "created": [
+                    "23", "45"
+                ],
+                "updated": [
+                    "24", "28", "50", "52", "88", "115e"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Richard von Weizsäcker",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Richard von Weizsäcker"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Rudolf Seiters",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Rudolf Seiters"
+                },
+                {
+                    "name": "Klaus Kinkel",
+                    "role": "Bundesminister des Auswärtigen",
+                    "uri": "https://de.wikipedia.org/wiki/Klaus Kinkel"
+                },
+                {
+                    "name": "Sabine Leutheusser-Schnarrenberger",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
+                },
+                {
+                    "name": "Theo Waigel",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Theo Waigel"
+                },
+                {
+                    "name": "Jürgen Möllemann",
+                    "role": "Bundesminister für Wirtschaft",
+                    "uri": "https://de.wikipedia.org/wiki/Jürgen Möllemann"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "2086"
+                }
+            ],
+            "passed": "1992-12-02",
+            "date": "1992-12-21",
+            "announced": "1992-12-24",
+            "effectiveSince": "1992-12-25",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
+            "votes": {
+                "yes": 547,
+                "no": 17,
+                "abstentions": 1
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 39,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 16 und 18)",
+            "articles": {
+                "created": [
+                    "16a"
+                ],
+                "updated": [
+                    "16", "18"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Richard von Weizsäcker",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Richard von Weizsäcker"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Rudolf Seiters",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Rudolf Seiters"
+                },
+                {
+                    "name": "Sabine Leutheusser-Schnarrenberger",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1002"
+                }
+            ],
+            "passed": "1993-05-26",
+            "date": "1993-06-28",
+            "announced": "1993-06-29",
+            "effectiveSince": "1993-06-30",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
+            "votes": {
+                "yes": 521,
+                "no": 132,
+                "abstentions": 1
+            },
+            "initiativeOf": "CDU/CSU, SPD und FDP"
+        },
+        {
+            "id": 40,
+            "title": "Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "created": [
+                    "87e", "106a", "143a"
+                ],
+                "updated": [
+                    "73", "74", "80", "87"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Richard von Weizsäcker",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Richard von Weizsäcker"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Matthias Wissmann",
+                    "role": "Bundesminister für Verkehr",
+                    "uri": "https://de.wikipedia.org/wiki/Matthias Wissmann"
+                },
+                {
+                    "name": "Manfred Kanther",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Manfred Kanther"
+                },
+                {
+                    "name": "Sabine Leutheusser-Schnarrenberger",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
+                },
+                {
+                    "name": "Theo Waigel",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Theo Waigel"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "2089"
+                }
+            ],
+            "passed": "1993-12-02",
+            "date": "1993-12-20",
+            "announced": "1993-12-22",
+            "effectiveSince": "1993-12-23",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
+            "votes": {
+                "yes": 558,
+                "no": 13,
+                "abstentions": 4
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 41,
+            "title": "Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "created": [
+                    "87f", "143b"
+                ],
+                "updated": [
+                    "73", "80", "87"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Roman Herzog",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Roman Herzog"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Wolfgang Bötsch",
+                    "role": "Bundesminister für Post und Telekommunikation",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang Bötsch"
+                },
+                {
+                    "name": "Manfred Kanther",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Manfred Kanther"
+                },
+                {
+                    "name": "Sabine Leutheusser-Schnarrenberger",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
+                },
+                {
+                    "name": "Theo Waigel",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Theo Waigel"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. BGBl. I",
+                    "pages": "2245"
+                }
+            ],
+            "passed": "1994-06-29",
+            "date": "1994-09-02",
+            "announced": "1994-08-30",
+            "effectiveSince": "1994-09-03",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
+            "votes": {
+                "yes": 470,
+                "no": 92,
+                "abstentions": 21
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 42,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 3, 20a, 28, 29, 72, 74, 75, 76, 77, 80, 87, 93, 118a und 125a)",
+            "articles": {
+                "created": [
+                    "20a", "118a", "125a"
+                ],
+                "updated": [
+                    "3", "28", "29", "72", "74", "75", "76", "77", "80", "87", "93"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Roman Herzog",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Roman Herzog"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Sabina Leutheusser-Schnarrenberger",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
+                },
+                {
+                    "name": "Theo Waigel",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Theo Waigel"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "3146"
+                }
+            ],
+            "passed": "1994-09-06",
+            "date": "1994-10-27",
+            "announced": "1994-11-03",
+            "effectiveSince": "1994-11-15",
+            "legislativeSession": {
+                "id": "12",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1990"
+            },
+            "votes": {
+                "yes": 571,
+                "no": 13,
+                "abstentions": 1
+            },
+            "initiativeOf": "Interfraktionelle Vorlage (in der Fassung der Beschlussempfehlung des Vermittlungsausschusses)"
+        },
+        {
+            "id": 43,
+            "title": "Gesetz zur Änderung des Grundgesetzes",
+            "articles": {
+                "updated": [
+                    "106"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Roman Herzog",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Roman Herzog"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Theo Waigel",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Theo Waigel"
+                },
+                {
+                    "name": "Manfred Kanther",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Manfred Kanther"
+                },
+                {
+                    "name": "Sabina Leutheusser-Schnarrenberger",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1492"
+                }
+            ],
+            "passed": "1995-09-21",
+            "date": "1995-11-03",
+            "announced": "1995-11-10",
+            "effectiveSince": "1995-11-11",
+            "legislativeSession": {
+                "id": "13",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1994"
+            },
+            "votes": {
+                "yes": 541,
+                "no": 64,
+                "abstentions": 2
+            },
+            "initiativeOf": "CDU/CSU, SPD und FDP"
+        },
+        {
+            "id": 44,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 28 und 106)",
+            "articles": {
+                "updated": [
+                    "28", "106"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Roman Herzog",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Roman Herzog"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Theo Waigel",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Theo Waigel"
+                },
+                {
+                    "name": "Manfred Kanther",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Manfred Kanther"
+                },
+                {
+                    "name": "Edzard Schmidt-Jortzig",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Edzard Schmidt-Jortzig"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "2470"
+                }
+            ],
+            "passed": "1997-09-11",
+            "date": "1997-10-20",
+            "announced": "1997-10-24",
+            "effectiveSince": "1997-10-25",
+            "legislativeSession": {
+                "id": "13",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1994"
+            },
+            "votes": {
+                "yes": 618,
+                "no": 0,
+                "abstentions": 2
+            },
+            "initiativeOf": "Regierungsvorlage eingebracht von CDU/CSU, SPD, Bündnis 90/Die Grünen, FDP"
+        },
+        {
+            "id": 45,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 13)",
+            "articles": {
+                "updated": [
+                    "13"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Roman Herzog",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Roman Herzog"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Edzard Schmidt-Jortzig",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Edzard Schmidt-Jortzig"
+                },
+                {
+                    "name": "Manfred Kanther",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Manfred Kanther"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1998-01-16"
+                }
+            ],
+            "date": "1998-03-26",
+            "passed": "1998-01-16",
+            "announced": "1998-03-31",
+            "effectiveSince": "1998-04-01",
+            "legislativeSession": {
+                "id": "13",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1994"
+            },
+            "votes": {
+                "yes": 452,
+                "no": 184,
+                "abstentions": 5
+            }
+        },
+        {
+            "id": 46,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 39)",
+            "articles": {
+                "updated": [
+                    "39"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Roman Herzog",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Roman Herzog"
+                },
+                {
+                    "name": "Helmut Kohl",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Helmut Kohl"
+                },
+                {
+                    "name": "Manfred Kanther",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Manfred Kanther"
+                },
+                {
+                    "name": "Edzard Schmidt-Jortzig",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Edzard Schmidt-Jortzig"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1822"
+                }
+            ],
+            "date": "1998-07-16",
+            "passed": "1998-05-28",
+            "announced": "1998-07-22",
+            "effectiveSince": "1998-10-27",
+            "legislativeSession": {
+                "id": "13",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1994"
+            },
+            "votes": {
+                "yes": 613,
+                "no": 1,
+                "abstentions": 0
+            },
+            "initiativeOf": "CDU/CSU, SPD, Bündnis 90/Die Grünen, FDP"
+        },
+        {
+            "id": 47,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 16)",
+            "articles": {
+                "updated": [
+                    "16"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Johannes Rau",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Johannes Rau"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder"
+                },
+                {
+                    "name": "Werner Müller",
+                    "role": "Bundesminister für Wirtschaft und Technologie",
+                    "uri": "https://de.wikipedia.org/wiki/Werner Müller (Politiker)"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1633"
+                }
+            ],
+            "date": "2000-11-29",
+            "passed": "2000-10-27",
+            "announced": "2000-12-01",
+            "effectiveSince": "2000-12-02",
+            "legislativeSession": {
+                "id": "14",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1998"
+            },
+            "votes": {
+                "yes": 528,
+                "no": 1,
+                "abstentions": 2
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 48,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 12a)",
+            "articles": {
+                "updated": [
+                    "12a"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Johannes Rau",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Johannes Rau"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder"
+                },
+                {
+                    "name": "Däubler-Gmelin",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Herta Däubler-Gmelin"
+                },
+                {
+                    "name": "Schily",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Otto Schily"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1755"
+                }
+            ],
+            "date": "2000-12-19",
+            "passed": "2000-10-27",
+            "announced": "2000-12-22",
+            "effectiveSince": "2000-12-23",
+            "legislativeSession": {
+                "id": "14",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1998"
+            },
+            "votes": {
+                "yes": 512,
+                "no": 5,
+                "abstentions": 26
+            },
+            "initiativeOf": "SPD, CDU/CSU, Bündnis 90/Die Grünen, FDP"
+        },
+        {
+            "id": 49,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 108)",
+            "articles": {
+                "updated": [
+                    "108"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Johannes Rau",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Johannes Rau"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder"
+                },
+                {
+                    "name": "Hans Eichel",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Hans Eichel"
+                },
+                {
+                    "name": "Schily",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Otto Schily"
+                },
+                {
+                    "name": "Däubler-Gmelin",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Herta Däubler-Gmelin"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "3219"
+                }
+            ],
+            "date": "2001-11-26",
+            "passed": "2001-06-29",
+            "announced": "2001-11-29",
+            "effectiveSince": "2001-11-30",
+            "legislativeSession": {
+                "id": "14",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1998"
+            },
+            "votes": {
+                "yes": 572,
+                "no": 1,
+                "abstentions": 1,
+                "uri": "http://dip21.bundestag.de/dip21/btp/14/14180.pdf"
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 50,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Staatsziel  Tierschutz)",
+            "articles": {
+                "updated": [
+                    "20a"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Johannes Rau",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Johannes Rau"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder"
+                },
+                {
+                    "name": "Schily",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Otto Schily"
+                },
+                {
+                    "name": "Däubler Gmelin",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Herta Däubler-Gmelin"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "2862"
+                }
+            ],
+            "date": "2002-07-26",
+            "passed": "2002-05-17",
+            "announced": "2002-07-31",
+            "effectiveSince": "2002-08-01",
+            "legislativeSession": {
+                "id": "14",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1998"
+            },
+            "votes": {
+                "yes": 542,
+                "no": 19,
+                "abstentions": 15,
+                "uri": "http://dip21.bundestag.de/dip21/btp/14/14237.pdf"
+            },
+            "initiativeOf": "SPD, CDU/CSU, Bündnis 90/Die Grünen, FDP"
+        },
+        {
+            "id": 51,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 96)",
+            "articles": {
+                "updated": [
+                    "96"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Johannes Rau",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Johannes Rau"
+                },
+                {
+                    "name": "Gerhard Schröder",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Gerhard Schröder"
+                },
+                {
+                    "name": "Däubler-Gmelin",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Herta Däubler-Gmelin"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "2863"
+                }
+            ],
+            "date": "2002-07-26",
+            "passed": "2002-06-14",
+            "announced": "2002-07-31",
+            "effectiveSince": "2002-08-01",
+            "legislativeSession": {
+                "id": "14",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_1998"
+            },
+            "votes": {
+                "yes": 531,
+                "no": 0,
+                "abstentions": 1,
+                "uri": "http://dip21.bundestag.de/dip21/btp/14/14243.pdf"
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 52,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 22, 23, 33, 52, 72, 73, 74, 74a, 75, 84, 85, 87c, 91a, 91b, 93, 98, 104a, 104b, 105, 107, 109, 125a, 125b, 125c, 143c)",
+            "articles": {
+                "created": [
+                    "104b", "125b", "125c", "143c"
+                ],
+                "updated": [
+                    "22", "23", "33", "52", "72", "73", "74", "84", "85", "87c", "91a", "91b", "93", "98", "104a", "105", "107", "109", "125a"
+                ],
+                "deleted": [
+                    "74a", "75"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Horst Köhler",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Köhler"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Wolfgang Schäuble",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang_Sch%C3%A4uble"
+                },
+                {
+                    "name": "Brigitte Zypries",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Brigitte Zypries"
+                },
+                {
+                    "name": "Peer Steinbrück",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Peer Steinbrück"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "2034"
+                }
+            ],
+            "date": "2006-08-28",
+            "passed": "2006-06-30",
+            "announced": "2006-08-31",
+            "effectiveSince": "2006-09-01",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
+            "votes": {
+                "yes": 428,
+                "no": 161,
+                "abstentions": 3,
+                "uri": "http://dip21.bundestag.de/dip21/btp/16/16044.pdf"
+            },
+            "initiativeOf": "CDU/CSU, SPD"
+        },
+        {
+            "id": 53,
+            "title": "Gesetz zur Änderung des Grundgesetz (Artikel 23, 45 und 93)",
+            "articles": {
+                "created": [
+
+                ],
+                "updated": [
+                    "23", "45", "93"
+                ],
+                "deleted": [
+
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Horst Köhler",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Köhler"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Wolfgang Schäuble",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang_Sch%C3%A4uble"
+                },
+                {
+                    "name": "Brigitte Zypries",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Brigitte Zypries"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1926"
+                }
+            ],
+            "date": "2008-10-08",
+            "passed": "2008-04-24",
+            "announced": "2008-10-16",
+            "effectiveSince": "2009-12-01",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
+            "votes": {
+                "yes": 519,
+                "no": 8,
+                "abstentions": 49,
+                "uri": "http://dip21.bundestag.de/dip21/btp/16/16157.pdf"
+            },
+            "initiativeOf": "CDU/CSU, SPD, Bündnis 90/Die Grünen"
+        },
+        {
+            "id": 54,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 106, 106b, 107, 108)",
+            "articles": {
+                "created": [
+                    "106b"
+                ],
+                "updated": [
+                    "106", "107", "108"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Horst Köhler",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Köhler"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Wolfgang Schäuble",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang_Sch%C3%A4uble"
+                },
+                {
+                    "name": "Brigitte Zypries",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Brigitte Zypries"
+                },
+                {
+                    "name": "Peer Steinbrück",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Peer Steinbrück"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "606"
+                }
+            ],
+            "date": "2009-03-19",
+            "passed": "2009-02-13",
+            "announced": "2009-03-25",
+            "effectiveSince": "2009-07-01",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
+            "votes": {
+                "yes": 562,
+                "no": 0,
+                "abstentions": 0,
+                "uri": "http://dip21.bundestag.de/dip21/btp/16/16206.pdf"
+            },
+            "initiativeOf": "CDU/CSU, SPD"
+        },
+        {
+            "id": 55,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 45d)",
+            "articles": {
+                "created": [
+                    "45d"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Horst Köhler",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Köhler"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Wolfgang Schäuble",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang Schäuble"
+                },
+                {
+                    "name": "Brigitte Zypries",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Brigitte Zypries"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "1977"
+                }
+            ],
+            "date": "2009-07-17",
+            "passed": "2009-05-29",
+            "announced": "2009-07-22",
+            "effectiveSince": "2009-07-23",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
+            "votes": {
+                "yes": 445,
+                "no": 54,
+                "abstentions": 29,
+                "uri": "http://dip21.bundestag.de/dip21/btp/16/16225.pdf"
+            },
+            "initiativeOf": "CDU/CSU, SPD, FDP"
+        },
+        {
+            "id": 56,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 87d)",
+            "articles": {
+                "updated": [
+                    "87d"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Horst Köhler",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Köhler"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Wolfgang Schäuble",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang_Sch%C3%A4uble"
+                },
+                {
+                    "name": "Brigitte Zypries",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Brigitte Zypries"
+                },
+                {
+                    "name": "Wolfgang Tiefensee",
+                    "role": "Bundesminister für Verkehr",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang Tiefensee"
+                }
+            ],
+            "sources": [
+                {
+                    "title": "BGBl. I",
+                    "pages": "2247"
+                }
+            ],
+            "passed": "2009-05-28",
+            "date": "2009-05-29",
+            "announced": "2009-07-31",
+            "effectiveSince": "2009-08-01",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
+            "votes": {
+                "yes": 459,
+                "no": 59,
+                "abstentions": 44,
+                "uri": "http://dip21.bundestag.de/dip21/btp/16/16225.pdf"
+            },
+            "initiativeOf": "CDU/CSU, SPD"
+        },
+        {
+            "id": 57,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 91c, 91d, 104b, 109, 109a, 115, 143d)",
+            "articles": {
+                "created": [
+                    "91c", "91d", "109a", "143d"
+                ],
+                "updated": [
+                    "104b", "109", "115"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Horst Köhler",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Horst Köhler"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Wolfgang Schäuble",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang_Sch%C3%A4uble"
+                },
+                {
+                    "name": "Brigitte Zypries",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Brigitte Zypries"
+                },
+                {
+                    "name": "Peer Steinbrück",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Peer Steinbrück"
+                }
+            ],
+            "date": "2009-07-29",
+            "passed": "2009-05-29",
+            "announced": "2009-07-31",
+            "effectiveSince": "2009-08-01",
+            "legislativeSession": {
+                "id": "16",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2005"
+            },
+            "votes": {
+                "yes": 418,
+                "no": 109,
+                "abstentions": 48,
+                "uri": "http://dip21.bundestag.de/dip21/btp/16/16225.pdf"
+            },
+            "initiativeOf": "CDU/CSU, SPD"
+        },
+        {
+            "id": 58,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 91e)",
+            "articles": {
+                "created": [
+                    "91e"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Peter Müller",
+                    "role": "Präsident des Bundesrates (für den Bundespräsidenten)",
+                    "uri": "https://de.wikipedia.org/wiki/Peter Müller (Ministerpräsident)"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Thomas de Maizière",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Thomas_de_Maizi%C3%A8re"
+                },
+                {
+                    "name": "Sabine Leutheusser-Schnarrenberger",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
+                },
+                {
+                    "name": "Ursula von der Leyen",
+                    "role": "Bundesministerin für Arbeit und Soziales",
+                    "uri": "https://de.wikipedia.org/wiki/Ursula von der Leyen"
+                }
+            ],
+            "date": "2010-07-21",
+            "passed": "2010-06-17",
+            "announced": "2010-07-26",
+            "legislativeSession": {
+                "id": "17",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2009"
+            },
+            "votes": {
+				"yes": 515,
+				"no": 71,
+				"abstentions": 0,
+				"notVoted": 36,
+				"uri": "http://www.bundestag.de/bundestag/plenum/abstimmung/grafik/index.jsp"
+				},
+			"initiativeOf": "CDU/CSU, SPD, FDP"
+        },
+        {
+            "id": 59,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 93)",
+            "articles": {
+                "updated": [
+                    "93"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Joachim Gauck",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Joachim_Gauck"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Sabine Leutheusser-Schnarrenberger",
+                    "role": "Bundesministerin der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Sabine Leutheusser-Schnarrenberger"
+                },
+                {
+                    "name": "Hans-Peter Friedrich",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Hans-Peter Friedrich"
+                }
+            ],
+            "date": "2012-07-11",
+            "passed": "2012-05-24",
+            "announced": "2012-07-16",
+            "effectiveSince": "2012-07-17",
+            "legislativeSession": {
+                "id": "17",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2009"
+            },
+            "votes": {
+                "yes": 510,
+                "no": 0,
+                "abstentions": 66,
+                "notVoted": 44,
+                "invalid": 0,
+                "uri": "http://www.bundestag.de/bundestag/plenum/abstimmung/2012/20120524.pdf"
+            },
+            "initiativeOf": "CDU/CSU, SPD, FDP, Bündnis 90/Die Grünen"
+        },
+        {
+            "id": 60,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 91b)",
+            "articles": {
+                "updated": [
+                    "91b"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Joachim Gauck",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Joachim_Gauck"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Thomas de Maizière",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Thomas_de_Maizi%C3%A8re"
+                },
+                {
+                    "name": "Johanna Wanka",
+                    "role": "Bundesministerin für Bildung und Forschung",
+                    "uri": "https://de.wikipedia.org/wiki/Johanna_Wanka"
+                }
+            ],
+            "date": "2014-12-23",
+            "passed": "2014-11-13",
+            "announced": "2014-12-31",
+            "effectiveSince": "2015-01-01",
+            "legislativeSession": {
+                "id": "18",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2013"
+            },
+            "votes": {
+                "yes": 482,
+                "no": 54,
+                "abstentions": 56,
+                "notVoted": 39,
+                "invalid": 0,
+                "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=309"
+            },
+            "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 61,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 21)",
+            "articles": {
+                "updated": [
+                    "21"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Frank-Walter Steinmeier",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Frank-Walter_Steinmeier"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Thomas de Maizière",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Thomas_de_Maizi%C3%A8re"
+                },
+                {
+                    "name": "Heiko Maas",
+                    "role": "Bundesminister der Justiz und für Verbraucherschutz",
+                    "uri": "https://de.wikipedia.org/wiki/Heiko_Maas"
+                },
+                {
+                    "name": "Wolfgang Schäuble",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang_Sch%C3%A4uble"
+                }
+            ],
+            "date": "2017-07-13",
+            "passed": "2017-06-22",
+            "announced": "2017-07-19",
+            "effectiveSince": "2017-07-20",
+            "legislativeSession": {
+                "id": "18",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2013"
+            },
+            "votes": {
+                "yes": 502,
+                "no": 57,
+                "abstentions": 20,
+                "notVoted": 51,
+                "invalid": 0,
+                "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=481"
+            },
+            "initiativeOf": "CDU/CSU, SPD"
+        },
+        {
+            "id": 62,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 90, 91c, 104b, 104c, 107, 108, 109a, 114, 125c, 143d, 143e, 143f, 143g)",
+            "articles": {
+                "created": [
+                    "104c", "143e", "143f", "143g"
+                ],
+                "updated": [
+                    "90", "91c", "104b", "107", "108", "109a", "114", "125c", "143d"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Frank-Walter Steinmeier",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Frank-Walter_Steinmeier"
+                },
+                {
+                    "name": "Angela Merkel",
+                    "role": "Bundeskanzlerin",
+                    "uri": "https://de.wikipedia.org/wiki/Angela_Merkel"
+                },
+                {
+                    "name": "Wolfgang Schäuble",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Wolfgang_Sch%C3%A4uble"
+                },
+                {
+                    "name": "Thomas de Maizière",
+                    "role": "Bundesminister des Innern",
+                    "uri": "https://de.wikipedia.org/wiki/Thomas_de_Maizi%C3%A8re"
+                },
+                {
+                    "name": "Heiko Maas",
+                    "role": "Bundesminister der Justiz und für Verbraucherschutz",
+                    "uri": "https://de.wikipedia.org/wiki/Heiko_Maas"
+                },
+                {
+                    "name": "Alexander Dobrindt",
+                    "role": "Bundesminister für Verkehr und digitale Infrastruktur",
+                    "uri": "https://de.wikipedia.org/wiki/Alexander_Dobrindt"
+                }
+            ],
+            "date": "2017-07-13",
+            "passed": "2017-06-01",
+            "announced": "2017-07-19",
+            "effectiveSince": "2017-07-20",
+            "legislativeSession": {
+                "id": "18",
+                "uri": "https://de.wikipedia.org/wiki/Bundestagswahl_2013"
+            },
+            "votes": {
+                "yes": 455,
+                "no": 87,
+                "abstentions": 61,
+                "notVoted": 27,
+                "invalid": 0,
+                "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=472"
+            },
+            "initiativeOf": "Regierungsvorlage"
+        }
+    ]
+}

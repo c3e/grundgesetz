@@ -1,0 +1,16 @@
+CONTRIBUTOR=""
+COVERAGE="Bundesrepublik Deutschland"
+CREATOR=""
+## Fetch announce date from meta file:
+DATE=`cat ${META_DIR}/${REVISION}.meta | grep Announced | awk '{print $NF}'`
+DESCRIPTION=""
+FORMAT="$OUTPUT_FORMAT"
+IDENTIFIER="brd_grundgesetz_${REVISION}_${DATE}"
+LANGUAGE="de-DE"
+PUBLISHER="DocPatch ${PROJECT_VERSION}"
+RELATION=""
+RIGHTS="Public Domain"
+SOURCE=""
+SUBJECT="Bundesverfassung"
+TITLE="Grundgesetz für die Bundesrepublik Deutschland"
+TYPE=""
